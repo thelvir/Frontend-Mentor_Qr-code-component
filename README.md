@@ -1,1 +1,1 @@
-# Frontend-Mentor_Qr-code-component
+Frintend Mentor,Qr code component solution
